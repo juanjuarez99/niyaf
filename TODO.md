@@ -1,0 +1,3 @@
+- pagination of store
+- cart page
+- sale page
