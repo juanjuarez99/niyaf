@@ -15,7 +15,7 @@ export default {
 <template>
 	<div class="container">
 		<va-card :to=productLink>
-			<va-image
+			<va-image contain
 			:src="`/images/${image}.jpg`"
 			style="height: 200px;"
 			/>

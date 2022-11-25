@@ -10,6 +10,15 @@ const app = createApp(App);
 
 app.use(createPinia());
 app.use(router);
-app.use(createVuestic());
+app.use(createVuestic({
+ config: {
+      colors: {
+        variables: {
+          primary: '#2D848A',
+        }
+      },
+    },
+  }
+));
 
 app.mount("#app");

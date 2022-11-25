@@ -39,7 +39,7 @@ export default {
 </script>
 
 <template>
-	<va-form class="flex xs12 justify-center row" tag="form" @submit.prevent="handleSubmit">
+	<va-form class="flex xs12 md6 justify-center row" tag="form" @submit.prevent="handleSubmit">
 
 		<div class="flex xs12">
 		<div class="filtro flex xs12 row" v-for="[nombre, valor] in atributos">

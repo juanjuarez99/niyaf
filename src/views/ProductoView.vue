@@ -10,7 +10,7 @@
 		<va-divider />
 		<div class="row justify-center">
 			<div class="flex xs12 va-text-center va-h4">Precio: ${{producto.Atributos.Precio}}</div>
-			<va-button @click="carrito.addToCart(producto)" class="flex xs12 md4 justify-center">Añadir al carrito</va-button>
+			<va-button @click="carrito.addToCart(producto)" class="flex xs12 md4 va-text-center">Añadir al carrito</va-button>
 		</div>
 		<va-divider />
 		<div class="row justify-center">
