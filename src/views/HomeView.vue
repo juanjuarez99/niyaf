@@ -1,6 +1,6 @@
 <template>
 	<main>
-		<va-carousel :items="items" v-model="value" :ratio="2/1"/>
+		<va-carousel :items="items" v-model="value" :ratio="4/1"/>
 		<va-divider />
 		<div class="row">
 			<ProductCard v-for="p in products" :nombre=nombreMochila(p) :precio=p.Atributos.Precio

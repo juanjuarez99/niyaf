@@ -521,7 +521,7 @@ export default
 		"Atributos": {
 			"Marca": "NIYAF",
 			"Color": "Rojo",
-			"Tamaño": "Grende",
+			"Tamaño": "Grande",
 			"Bolsas": 6,
 			"Laptop": "si",
 			"Cilindro": "si",
@@ -537,7 +537,7 @@ export default
 		"Atributos": {
 			"Marca": "NIYAF",
 			"Color": "Rojo",
-			"Tamaño": "Grende",
+			"Tamaño": "Grande",
 			"Bolsas": 6,
 			"Laptop": "si",
 			"Cilindro": "no",
@@ -553,7 +553,7 @@ export default
 		"Atributos": {
 			"Marca": "NIYAF",
 			"Color": "Rojo",
-			"Tamaño": "Grende",
+			"Tamaño": "Grande",
 			"Bolsas": 6,
 			"Laptop": "no",
 			"Cilindro": "si",
@@ -1097,7 +1097,7 @@ export default
 		"Atributos": {
 			"Marca": "NIYAF",
 			"Color": "Naranja",
-			"Tamaño": "Grende",
+			"Tamaño": "Grande",
 			"Bolsas": 6,
 			"Laptop": "si",
 			"Cilindro": "si",
@@ -1113,7 +1113,7 @@ export default
 		"Atributos": {
 			"Marca": "NIYAF",
 			"Color": "Naranja",
-			"Tamaño": "Grende",
+			"Tamaño": "Grande",
 			"Bolsas": 6,
 			"Laptop": "si",
 			"Cilindro": "no",
@@ -1129,7 +1129,7 @@ export default
 		"Atributos": {
 			"Marca": "NIYAF",
 			"Color": "Naranja",
-			"Tamaño": "Grende",
+			"Tamaño": "Grande",
 			"Bolsas": 6,
 			"Laptop": "no",
 			"Cilindro": "si",
@@ -1145,7 +1145,7 @@ export default
 		"Atributos": {
 			"Marca": "NIYAF",
 			"Color": "Naranja",
-			"Tamaño": "Grende",
+			"Tamaño": "Grande",
 			"Bolsas": 6,
 			"Laptop": "no",
 			"Cilindro": "no",
@@ -1673,7 +1673,7 @@ export default
 		"Atributos": {
 			"Marca": "NIYAF",
 			"Color": "Amarillo",
-			"Tamaño": "Grende",
+			"Tamaño": "Grande",
 			"Bolsas": 6,
 			"Laptop": "si",
 			"Cilindro": "si",
@@ -1689,7 +1689,7 @@ export default
 		"Atributos": {
 			"Marca": "NIYAF",
 			"Color": "Amarillo",
-			"Tamaño": "Grende",
+			"Tamaño": "Grande",
 			"Bolsas": 6,
 			"Laptop": "si",
 			"Cilindro": "no",
@@ -1705,7 +1705,7 @@ export default
 		"Atributos": {
 			"Marca": "NIYAF",
 			"Color": "Amarillo",
-			"Tamaño": "Grende",
+			"Tamaño": "Grande",
 			"Bolsas": 6,
 			"Laptop": "no",
 			"Cilindro": "si",
@@ -1721,7 +1721,7 @@ export default
 		"Atributos": {
 			"Marca": "NIYAF",
 			"Color": "Amarillo",
-			"Tamaño": "Grende",
+			"Tamaño": "Grande",
 			"Bolsas": 6,
 			"Laptop": "no",
 			"Cilindro": "no",
@@ -2249,7 +2249,7 @@ export default
 		"Atributos": {
 			"Marca": "NIYAF",
 			"Color": "Verde",
-			"Tamaño": "Grende",
+			"Tamaño": "Grande",
 			"Bolsas": 6,
 			"Laptop": "si",
 			"Cilindro": "si",
@@ -2265,7 +2265,7 @@ export default
 		"Atributos": {
 			"Marca": "NIYAF",
 			"Color": "Verde",
-			"Tamaño": "Grende",
+			"Tamaño": "Grande",
 			"Bolsas": 6,
 			"Laptop": "si",
 			"Cilindro": "no",
@@ -2281,7 +2281,7 @@ export default
 		"Atributos": {
 			"Marca": "NIYAF",
 			"Color": "Verde",
-			"Tamaño": "Grende",
+			"Tamaño": "Grande",
 			"Bolsas": 6,
 			"Laptop": "no",
 			"Cilindro": "si",
@@ -2297,7 +2297,7 @@ export default
 		"Atributos": {
 			"Marca": "NIYAF",
 			"Color": "Verde",
-			"Tamaño": "Grende",
+			"Tamaño": "Grande",
 			"Bolsas": 6,
 			"Laptop": "no",
 			"Cilindro": "no",
@@ -2825,7 +2825,7 @@ export default
 		"Atributos": {
 			"Marca": "NIYAF",
 			"Color": "Azul",
-			"Tamaño": "Grende",
+			"Tamaño": "Grande",
 			"Bolsas": 6,
 			"Laptop": "si",
 			"Cilindro": "si",
@@ -2841,7 +2841,7 @@ export default
 		"Atributos": {
 			"Marca": "NIYAF",
 			"Color": "Azul",
-			"Tamaño": "Grende",
+			"Tamaño": "Grande",
 			"Bolsas": 6,
 			"Laptop": "si",
 			"Cilindro": "no",
@@ -2857,7 +2857,7 @@ export default
 		"Atributos": {
 			"Marca": "NIYAF",
 			"Color": "Azul",
-			"Tamaño": "Grende",
+			"Tamaño": "Grande",
 			"Bolsas": 6,
 			"Laptop": "no",
 			"Cilindro": "si",
@@ -2873,7 +2873,7 @@ export default
 		"Atributos": {
 			"Marca": "NIYAF",
 			"Color": "Azul",
-			"Tamaño": "Grende",
+			"Tamaño": "Grande",
 			"Bolsas": 6,
 			"Laptop": "no",
 			"Cilindro": "no",
@@ -3401,7 +3401,7 @@ export default
 		"Atributos": {
 			"Marca": "NIYAF",
 			"Color": "Morado",
-			"Tamaño": "Grende",
+			"Tamaño": "Grande",
 			"Bolsas": 6,
 			"Laptop": "si",
 			"Cilindro": "si",
@@ -3417,7 +3417,7 @@ export default
 		"Atributos": {
 			"Marca": "NIYAF",
 			"Color": "Morado",
-			"Tamaño": "Grende",
+			"Tamaño": "Grande",
 			"Bolsas": 6,
 			"Laptop": "si",
 			"Cilindro": "no",
@@ -3433,7 +3433,7 @@ export default
 		"Atributos": {
 			"Marca": "NIYAF",
 			"Color": "Morado",
-			"Tamaño": "Grende",
+			"Tamaño": "Grande",
 			"Bolsas": 6,
 			"Laptop": "no",
 			"Cilindro": "si",
@@ -3449,7 +3449,7 @@ export default
 		"Atributos": {
 			"Marca": "NIYAF",
 			"Color": "Morado",
-			"Tamaño": "Grende",
+			"Tamaño": "Grande",
 			"Bolsas": 6,
 			"Laptop": "no",
 			"Cilindro": "no",

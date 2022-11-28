@@ -7,7 +7,7 @@ import Header from "./components/Header.vue"
 	<Header />
   <RouterView />
 	<div class="footer">
-	<p class="va-text-center">Creado por Juan de Dios Juarez Castro (juarez.c.juan.d@gmail.com) - 18030514 Ingenieria ITESA</p>
+	<p class="va-text-center">Creado por Juan de Dios Juárez Castro (juarez.c.juan.d@gmail.com) - 18030514 Ingenieria ITESA</p>
 	</div>
 </template>
 
@@ -22,7 +22,7 @@ html, body {
 }
 
 main {
-	padding-bottom: 3em;
+	padding-bottom: 6em;
 }
 
 .footer {
