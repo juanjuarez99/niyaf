@@ -28,17 +28,17 @@
 				<br>
 				<div class="row justify-center">
 					<va-card class="flex xs12 md4">
-						<va-image src="/images/autores/autor4.jpg" style="height: 200px;" contain />
+						<va-image src="/niyaf/images/autores/autor4.jpg" style="height: 200px;" contain />
 						<va-card-title class="va-text-center">Nancy Muñoz Ramirez</va-card-title>
 						<va-card-content class="va-text-center">Finanzas</va-card-content>
 					</va-card>
 					<va-card class="flex xs12 md4">
-						<va-image src="/images/autores/autor1.jpg" style="height: 200px;" contain />
+						<va-image src="/niyaf/images/autores/autor1.jpg" style="height: 200px;" contain />
 						<va-card-title class="va-text-center">Angélica Patricia Sánchez Flores</va-card-title>
 						<va-card-content class="va-text-center">Marketing</va-card-content>
 					</va-card>
 					<va-card class="flex xs12 md4">
-						<va-image src="/images/autores/autor3.jpg" style="height: 200px;" contain />
+						<va-image src="/niyaf/images/autores/autor3.jpg" style="height: 200px;" contain />
 						<va-card-title class="va-text-center">Ivan Gutierrez Gonzales</va-card-title>
 						<va-card-content class="va-text-center">Produccion</va-card-content>
 					</va-card>

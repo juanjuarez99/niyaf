@@ -16,7 +16,7 @@ export default {
 	<div class="container">
 		<va-card :to=productLink>
 			<va-image contain
-			:src="`/images/${image}.jpg`"
+			:src="`/niyaf/images/${image}.jpg`"
 			style="height: 200px;"
 			/>
 			<va-card-title>${{precio}}</va-card-title>

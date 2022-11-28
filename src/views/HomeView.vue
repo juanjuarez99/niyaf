@@ -26,11 +26,11 @@ export default {
     return {
       value: 0,
       items: [
-        '/images/carrusel/image1.jpeg',
-        '/images/carrusel/image2.jpeg',
-        '/images/carrusel/image3.jpeg',
-        '/images/carrusel/image4.jpeg',
-        '/images/carrusel/image5.jpeg',
+        '/niyaf/images/carrusel/image1.jpeg',
+        '/niyaf/images/carrusel/image2.jpeg',
+        '/niyaf/images/carrusel/image3.jpeg',
+        '/niyaf/images/carrusel/image4.jpeg',
+        '/niyaf/images/carrusel/image5.jpeg',
       ],
 			products: [
 				products[0],

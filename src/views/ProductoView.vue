@@ -5,7 +5,7 @@
 		</div>
 		<va-divider />
 		<div class="row justify-center">
-			<va-image contain :src="`/images/${producto.Imágenes}.jpg`" class="flex sm6 xs12"/>
+			<va-image contain :src="`/niyaf/images/${producto.Imágenes}.jpg`" class="flex sm6 xs12"/>
 		</div>
 		<va-divider />
 		<div class="row justify-center">
