@@ -1,6 +1,6 @@
 <template>
 	<main>
-		<va-carousel :items="items" v-model="value" />
+		<va-carousel :items="items" v-model="value" :ratio="2/1"/>
 		<va-divider />
 		<div class="row">
 			<ProductCard v-for="p in products" :nombre=nombreMochila(p) :precio=p.Atributos.Precio
@@ -26,11 +26,11 @@ export default {
     return {
       value: 0,
       items: [
-        'https://picsum.photos/1500',
-        'https://picsum.photos/1501',
-        'https://picsum.photos/1502',
-        'https://picsum.photos/1503',
-        'https://picsum.photos/1504',
+        '/images/carrusel/image1.jpeg',
+        '/images/carrusel/image2.jpeg',
+        '/images/carrusel/image3.jpeg',
+        '/images/carrusel/image4.jpeg',
+        '/images/carrusel/image5.jpeg',
       ],
 			products: [
 				products[0],

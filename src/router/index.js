@@ -4,6 +4,7 @@ import TiendaView from "../views/TiendaView.vue";
 import AcercaView from "../views/AcercaView.vue";
 import ProductoView from "../views/ProductoView.vue";
 import CarritoView from "../views/CarritoView.vue";
+import VentaView from "../views/VentaView.vue";
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -32,6 +33,11 @@ const router = createRouter({
       path: "/carrito",
       name: "carrito",
       component: CarritoView,
+		},
+		{
+      path: "/venta",
+      name: "venta",
+      component: VentaView,
 		}
   ],
 });

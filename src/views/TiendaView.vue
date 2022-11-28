@@ -2,10 +2,10 @@
 	<main>
 		<div class="row justify-center">
 			<FiltroTienda @filtrar="actualizarFiltro"/>
-			<div class="row">
+		</div>
+		<div class="row justify-center">
 			<ProductCard v-for="p in productosFiltrados" :nombre=nombreMochila(p) :precio=p.Atributos.Precio
 				:image=p.Imágenes :productId=p.Modelo :key=p.Modelo class="flex md6 xs12"/>
-			</div>
 		</div>
 	</main>
 </template>
@@ -36,7 +36,6 @@ export default {
 	},
 	computed: {
 		productosFiltrados() {
-			console.log("Actualizado");
 			let productos = [];
 			this.products.forEach(p => {
 				let agregar = true;

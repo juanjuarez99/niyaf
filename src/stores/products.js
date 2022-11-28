@@ -3,7 +3,7 @@ export default
   {
     "Nombre": "Brais",
     "Modelo": "JDJC001",
-    "Descripción": "Cuenta con puerto de Carga USB para Mujeres y Hombres,  Mochila escolar",
+    "Descripción": "Mochila escolar para mujer y hombre, incluye porta laptop con cierre.",
     "Imágenes": "image001",
     "Stock": 50,
 		"Atributos": {
@@ -35,7 +35,7 @@ export default
   {
     "Nombre": "Anxo",
     "Modelo": "JDJC003",
-    "Descripción": "Mochila infantil Hombres,  Mochila escolar",
+    "Descripción": "Mochila de trabajo para fotografo, cuenta con diferentes apartados interiormente en los que podria gardar su equipo de trabajo.",
     "Imágenes": "image003",
     "Stock": 50,
 		"Atributos": {
@@ -51,7 +51,7 @@ export default
   {
     "Nombre": "Antón",
     "Modelo": "JDJC004",
-    "Descripción": "Mochila infantil Hombres,  Mochila escolar",
+    "Descripción": "Mochila infantil para Mujer,  Mochila escolar",
     "Imágenes": "image004",
     "Stock": 50,
 		"Atributos": {
@@ -67,7 +67,7 @@ export default
   {
     "Nombre": "Xoel",
     "Modelo": "JDJC005",
-    "Descripción": "Mochila infantil Hombres,  Mochila escolar",
+    "Descripción": "Mochila para Hombres,  Mochila escolar antirobo con candado,",
     "Imágenes": "image005",
     "Stock": 50,
 		"Atributos": {
@@ -83,7 +83,7 @@ export default
   {
     "Nombre": "Roi",
     "Modelo": "JDJC006",
-    "Descripción": "Mochila infantil Hombres,  Mochila escolar",
+    "Descripción": "Mochila para Hombres,  Mochila escolar",
     "Imágenes": "image006",
     "Stock": 50,
 		"Atributos": {
@@ -574,22 +574,6 @@ export default
 			"Laptop": "no",
 			"Cilindro": "no",
 			"Precio": 615
-		}
-  },
-  {
-    "Nombre": "",
-    "Modelo": "",
-    "Descripción": "",
-    "Imágenes": "",
-    "Stock": "",
-		"Atributos": {
-			"Marca": "",
-			"Color": "",
-			"Tamaño": "",
-			"Bolsas": "",
-			"Laptop": "",
-			"Cilindro": "",
-			"Precio": ""
 		}
   },
   {
@@ -1169,22 +1153,6 @@ export default
 		}
   },
   {
-    "Nombre": "",
-    "Modelo": "",
-    "Descripción": "",
-    "Imágenes": "",
-    "Stock": "",
-		"Atributos": {
-			"Marca": "",
-			"Color": "",
-			"Tamaño": "",
-			"Bolsas": "",
-			"Laptop": "",
-			"Cilindro": "",
-			"Precio": ""
-		}
-  },
-  {
     "Nombre": "Frantzisko",
     "Modelo": "JDJC075",
     "Descripción": "Mochila escolar para Hombre y Mujer; sencilla y muy practica",
@@ -1761,22 +1729,6 @@ export default
 		}
   },
   {
-    "Nombre": "",
-    "Modelo": "",
-    "Descripción": "",
-    "Imágenes": "",
-    "Stock": "",
-		"Atributos": {
-			"Marca": "",
-			"Color": "",
-			"Tamaño": "",
-			"Bolsas": "",
-			"Laptop": "",
-			"Cilindro": "",
-			"Precio": ""
-		}
-  },
-  {
     "Nombre": "Hermes",
     "Modelo": "JDJC112",
     "Descripción": "Mochila escolar para Hombre y Mujer; sencilla y muy practica",
@@ -2179,7 +2131,7 @@ export default
   {
     "Nombre": "Nils",
     "Modelo": "JDJC137",
-    "Descripción": "Mochila escolar para Hombre; sencilla y muy practica",
+    "Descripción": "Mochila de viaje para Hombre; sencilla y muy practica para salir de viaje con todo lo necesario.",
     "Imágenes": "image137",
     "Stock": 50,
 		"Atributos": {
@@ -2350,22 +2302,6 @@ export default
 			"Laptop": "no",
 			"Cilindro": "no",
 			"Precio": 690
-		}
-  },
-  {
-    "Nombre": "",
-    "Modelo": "",
-    "Descripción": "",
-    "Imágenes": "",
-    "Stock": "",
-		"Atributos": {
-			"Marca": "",
-			"Color": "",
-			"Tamaño": "",
-			"Bolsas": "",
-			"Laptop": "",
-			"Cilindro": "",
-			"Precio": ""
 		}
   },
   {
@@ -2942,22 +2878,6 @@ export default
 			"Laptop": "no",
 			"Cilindro": "no",
 			"Precio": 690
-		}
-  },
-  {
-    "Nombre": "",
-    "Modelo": "",
-    "Descripción": "",
-    "Imágenes": "",
-    "Stock": "",
-		"Atributos": {
-			"Marca": "",
-			"Color": "",
-			"Tamaño": "",
-			"Bolsas": "",
-			"Laptop": "",
-			"Cilindro": "",
-			"Precio": ""
 		}
   },
   {

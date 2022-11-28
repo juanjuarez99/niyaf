@@ -39,7 +39,7 @@ export default {
 </script>
 
 <template>
-	<va-form class="flex xs12 md6 justify-center row" tag="form" @submit.prevent="handleSubmit">
+	<va-form class="xs12 md6 justify-center row" tag="form" @submit.prevent="handleSubmit">
 
 		<div class="flex xs12">
 		<div class="filtro flex xs12 row" v-for="[nombre, valor] in atributos">
@@ -52,12 +52,13 @@ export default {
 		</div>
 		</div>
 
-	<va-button type="submit">
-		Filtrar
-	</va-button>
-	<va-button @click="reset">
-		Reiniciar filtro
-	</va-button>
+		<va-button type="submit" class="xs12 md5 flex">
+			Filtrar
+		</va-button>
+		<div class="md2 flex"></div>
+		<va-button @click="reset" class="xs12 md5 flex">
+			Reiniciar filtro
+		</va-button>
 	</va-form>
 </template>
 

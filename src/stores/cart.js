@@ -12,6 +12,13 @@ export const useCartStore = defineStore("cart", {
 		},
 		getCartItems() {
 			return this.products;
+		},
+		getCartTotal() {
+			let total = 0;
+			this.products.forEach(p => 
+				total += p.Atributos.Precio * p.quantity
+			);
+			return total;
 		}
 	},
 	actions: {

@@ -6,7 +6,32 @@ import Header from "./components/Header.vue"
 <template>
 	<Header />
   <RouterView />
+	<div class="footer">
+	<p class="va-text-center">Creado por Juan de Dios Juarez Castro (juarez.c.juan.d@gmail.com) - 18030514 Ingenieria ITESA</p>
+	</div>
 </template>
 
-<style scoped>
+<style>
+html, body {
+	height: 100%;
+}
+
+#app {
+	min-height: 100%;
+	position: relative;
+}
+
+main {
+	padding-bottom: 3em;
+}
+
+.footer {
+	width: 100%;
+	position: absolute;
+	bottom: 0;
+	padding: 1em;
+	text-align: center;
+	font-weight: bold;
+	display: block;
+}
 </style>

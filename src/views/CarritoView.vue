@@ -25,6 +25,10 @@
 			</va-list-item>
 		</va-list>
 	</div>
+	<h3 class="va-h3 va-text-center">Total: ${{carrito.getCartTotal}}</h3>
+	<div class="row justify-center">
+		<va-button to="/venta" class="xs12 md4">Confirmar compra</va-button>
+	</div>
 	</main>
 </template>
 
