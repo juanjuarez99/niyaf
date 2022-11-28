@@ -20,7 +20,7 @@
 				<h1 class="va-h1 va-text-center">Conocenos</h1>
 				<div class="row justify-center">
 					<va-card class="flex xs12 md4">
-						<va-image src="/images/autores/autor2.jpg" style="height: 200px;" contain />
+						<va-image src="/niyaf/images/autores/autor2.jpg" style="height: 200px;" contain />
 						<va-card-title class="va-text-center">Francisco Castañeda Morales</va-card-title>
 						<va-card-content class="va-text-center">Director General</va-card-content>
 					</va-card>
